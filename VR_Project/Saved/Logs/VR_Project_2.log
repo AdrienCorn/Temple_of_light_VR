@@ -1591,3 +1591,261 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.09-13.38.42:962][928]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.09-13.38.42:962][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2023.01.09-13.38.42:962][928]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-13.39.09:073][181]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.09-13.39.09:082][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.09-13.39.09:083][181]PIE: New page: PIE session: VRTemplateMap (9 janv. 2023 à 15:39:09)
+[2023.01.09-13.39.09:083][181]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-13.39.09:089][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005371s)
+[2023.01.09-13.39.09:090][181]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.01.09-13.39.09:090][181]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.01.09-13.39.09:090][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006572s)
+[2023.01.09-13.39.09:119][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.09-13.39.09:119][181]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-13.39.09:120][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.09-13.39.09:120][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-13.39.09:121][181]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.01.09-13.39.09:121][181]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.01.09-13.39.09:121][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-13.39.09:121][181]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.09-13.39.09:124][181]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.09-13.39.09:124][181]LogAudioMixer: Display: 1: FrontRight
+[2023.01.09-13.39.09:129][181]LogAudioMixer: Display: Using Audio Device Casque (Oculus Virtual Audio Device)
+[2023.01.09-13.39.09:129][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-13.39.09:129][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-13.39.09:129][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-13.39.09:130][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.09-13.39.09:130][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.09-13.39.09:130][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.09-13.39.09:131][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.09-13.39.09:131][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.09-13.39.09:131][181]LogInit: FAudioDevice initialized.
+[2023.01.09-13.39.09:131][181]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2023.01.09-13.39.09:138][181]LogLoad: Game class is 'VRGameMode_C'
+[2023.01.09-13.39.09:140][181]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2023.01.09-14.39.09
+[2023.01.09-13.39.09:140][181]LogWorld: Bringing up level for play took: 0.001861
+[2023.01.09-13.39.09:141][181]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.01.09-13.39.09:142][181]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.01.09-13.39.09:143][181]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.39.09:143][181]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.39.09:144][181]PIE: Server logged in
+[2023.01.09-13.39.09:145][181]PIE: Play in editor total start time 0,063 seconds.
+[2023.01.09-13.39.09:174][181]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.01.09-13.39.11:099][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.39.11:099][219]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-13.39.11:100][219]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-13.39.11:102][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.39.11:119][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.09-13.39.11:133][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.39.11:158][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.39.11:158][219]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.01.09-13.39.11:158][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-13.39.11:159][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-13.39.11:162][219]LogSlate: Slate User Unregistered.  User Index 8
+[2023.01.09-13.39.11:162][219]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.39.11:165][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.01.09-13.39.11:189][220]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.01.09-13.39.34:669][596]Cmd: DELETE
+[2023.01.09-13.39.34:674][596]Cmd: ACTOR DELETE
+[2023.01.09-13.39.34:734][596]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.34:796][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2023.01.09-13.39.34:797][596]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.01.09-13.39.38:474][686]Cmd: DELETE
+[2023.01.09-13.39.38:474][686]Cmd: ACTOR DELETE
+[2023.01.09-13.39.38:482][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.38:538][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.01.09-13.39.38:540][686]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2023.01.09-13.39.39:891][710]Cmd: DELETE
+[2023.01.09-13.39.39:892][710]Cmd: ACTOR DELETE
+[2023.01.09-13.39.39:896][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.39:956][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.01.09-13.39.39:958][710]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2023.01.09-13.39.41:032][731]Cmd: DELETE
+[2023.01.09-13.39.41:032][731]Cmd: ACTOR DELETE
+[2023.01.09-13.39.41:037][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.41:110][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.09-13.39.41:112][731]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2023.01.09-13.39.41:892][749]Cmd: DELETE
+[2023.01.09-13.39.41:892][749]Cmd: ACTOR DELETE
+[2023.01.09-13.39.41:897][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.41:976][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.01.09-13.39.41:977][749]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2023.01.09-13.39.42:819][767]Cmd: DELETE
+[2023.01.09-13.39.42:819][767]Cmd: ACTOR DELETE
+[2023.01.09-13.39.42:827][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.42:884][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.09-13.39.42:886][767]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.01.09-13.39.43:647][782]Cmd: DELETE
+[2023.01.09-13.39.43:647][782]Cmd: ACTOR DELETE
+[2023.01.09-13.39.43:651][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.43:724][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.01.09-13.39.43:726][782]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2023.01.09-13.39.44:531][799]Cmd: DELETE
+[2023.01.09-13.39.44:531][799]Cmd: ACTOR DELETE
+[2023.01.09-13.39.44:535][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.44:600][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.01.09-13.39.44:602][799]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.01.09-13.39.45:429][826]Cmd: DELETE
+[2023.01.09-13.39.45:429][826]Cmd: ACTOR DELETE
+[2023.01.09-13.39.45:431][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.45:458][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.09-13.39.45:458][826]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.01.09-13.39.48:685][888]Cmd: DELETE
+[2023.01.09-13.39.48:685][888]Cmd: ACTOR DELETE
+[2023.01.09-13.39.48:699][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.48:789][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.09-13.39.48:793][888]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2023.01.09-13.39.50:545][915]Cmd: DELETE
+[2023.01.09-13.39.50:545][915]Cmd: ACTOR DELETE
+[2023.01.09-13.39.50:551][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.50:602][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.09-13.39.50:611][915]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2023.01.09-13.39.51:527][932]Cmd: DELETE
+[2023.01.09-13.39.51:527][932]Cmd: ACTOR DELETE
+[2023.01.09-13.39.51:534][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.51:589][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.09-13.39.51:589][932]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.01.09-13.39.52:483][949]Cmd: DELETE
+[2023.01.09-13.39.52:483][949]Cmd: ACTOR DELETE
+[2023.01.09-13.39.52:490][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.39.52:538][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.09-13.39.52:539][949]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2023.01.09-13.39.54:370][980]Cmd: DELETE
+[2023.01.09-13.39.54:371][980]Cmd: ACTOR DELETE
+[2023.01.09-13.39.54:379][980]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.39.54:469][980]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.01.09-13.39.54:471][980]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.01.09-13.39.56:174][ 11]Cmd: DELETE
+[2023.01.09-13.39.56:174][ 11]Cmd: ACTOR DELETE
+[2023.01.09-13.39.56:178][ 11]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.39.56:281][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.01.09-13.39.56:282][ 11]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2023.01.09-13.39.57:243][ 31]Cmd: DELETE
+[2023.01.09-13.39.57:243][ 31]Cmd: ACTOR DELETE
+[2023.01.09-13.39.57:248][ 31]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.39.57:348][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2023.01.09-13.39.57:349][ 31]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2023.01.09-13.39.58:473][ 52]Cmd: DELETE
+[2023.01.09-13.39.58:474][ 52]Cmd: ACTOR DELETE
+[2023.01.09-13.39.58:479][ 52]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.39.58:572][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.01.09-13.39.58:573][ 52]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.01.09-13.39.59:551][ 73]Cmd: DELETE
+[2023.01.09-13.39.59:551][ 73]Cmd: ACTOR DELETE
+[2023.01.09-13.39.59:558][ 73]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.39.59:619][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.09-13.39.59:620][ 73]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.01.09-13.40.00:497][ 90]Cmd: DELETE
+[2023.01.09-13.40.00:498][ 90]Cmd: ACTOR DELETE
+[2023.01.09-13.40.00:505][ 90]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.40.00:569][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.09-13.40.00:569][ 90]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.01.09-13.40.01:511][110]Cmd: DELETE
+[2023.01.09-13.40.01:511][110]Cmd: ACTOR DELETE
+[2023.01.09-13.40.01:514][110]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.40.01:604][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.01.09-13.40.01:607][110]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2023.01.09-13.40.02:571][129]Cmd: DELETE
+[2023.01.09-13.40.02:571][129]Cmd: ACTOR DELETE
+[2023.01.09-13.40.02:574][129]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.01.09-13.40.02:665][129]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.01.09-13.40.02:667][129]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2023.01.09-13.40.06:370][196]Cmd: DELETE
+[2023.01.09-13.40.06:370][196]Cmd: ACTOR DELETE
+[2023.01.09-13.40.06:374][196]LogEditorActor: Deleted Actor: Pistol_C
+[2023.01.09-13.40.06:467][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.01.09-13.40.06:470][196]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.01.09-13.40.07:418][215]Cmd: DELETE
+[2023.01.09-13.40.07:418][215]Cmd: ACTOR DELETE
+[2023.01.09-13.40.07:425][215]LogEditorActor: Deleted Actor: Pistol_C
+[2023.01.09-13.40.07:487][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.01.09-13.40.07:488][215]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.01.09-13.40.11:887][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ball_01)
+[2023.01.09-13.40.20:485][432]Cmd: DELETE
+[2023.01.09-13.40.20:485][432]Cmd: ACTOR DELETE
+[2023.01.09-13.40.20:488][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.09-13.40.20:555][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.01.09-13.40.20:556][432]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2023.01.09-13.40.44:664][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.09-13.40.44:679][902]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap83A2F3594609D9DF8F2C3DB52CBFD291.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-13.40.44:883][902]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltDataE56D4DEE43DB8862CD905788B04946B9.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-13.40.44:896][902]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-13.40.44:896][902]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-13.40.44:896][902]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-13.40.56:884][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.09-13.40.56:899][ 85]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap10413D924BE1EC0611C06CA157511E90.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-13.40.57:092][ 85]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltDataA2C4C54143DCBAF688090FBE09FB6DEF.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-13.40.57:102][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-13.40.57:102][ 85]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-13.40.57:102][ 85]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-13.40.59:728][129]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.09-13.40.59:736][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.09-13.40.59:737][129]PIE: New page: PIE session: VRTemplateMap (9 janv. 2023 à 15:40:59)
+[2023.01.09-13.40.59:737][129]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-13.40.59:752][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014714s)
+[2023.01.09-13.40.59:754][129]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.01.09-13.40.59:754][129]LogPlayLevel: PIE: World Init took: (0.001788s)
+[2023.01.09-13.40.59:754][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.016842s)
+[2023.01.09-13.40.59:787][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.01.09-13.40.59:787][129]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-13.40.59:787][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.09-13.40.59:787][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-13.40.59:788][129]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.01.09-13.40.59:788][129]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.01.09-13.40.59:788][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-13.40.59:788][129]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.09-13.40.59:790][129]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.09-13.40.59:790][129]LogAudioMixer: Display: 1: FrontRight
+[2023.01.09-13.40.59:795][129]LogAudioMixer: Display: Using Audio Device Casque (Oculus Virtual Audio Device)
+[2023.01.09-13.40.59:795][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-13.40.59:795][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-13.40.59:795][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-13.40.59:796][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.09-13.40.59:796][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.09-13.40.59:796][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.09-13.40.59:797][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.09-13.40.59:797][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.09-13.40.59:797][129]LogInit: FAudioDevice initialized.
+[2023.01.09-13.40.59:797][129]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2023.01.09-13.40.59:807][129]LogLoad: Game class is 'VRGameMode_C'
+[2023.01.09-13.40.59:808][129]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2023.01.09-14.40.59
+[2023.01.09-13.40.59:808][129]LogWorld: Bringing up level for play took: 0.000858
+[2023.01.09-13.40.59:808][129]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.01.09-13.40.59:810][129]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.01.09-13.40.59:811][129]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.40.59:811][129]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.40.59:811][129]PIE: Server logged in
+[2023.01.09-13.40.59:812][129]PIE: Play in editor total start time 0,076 seconds.
+[2023.01.09-13.40.59:839][129]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.01.09-13.41.02:069][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.41.02:069][175]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-13.41.02:070][175]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-13.41.02:070][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.41.02:082][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.09-13.41.02:102][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.41.02:127][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.09-13.41.02:128][175]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.01.09-13.41.02:128][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-13.41.02:129][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-13.41.02:132][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.41.02:133][175]LogSlate: Slate User Unregistered.  User Index 8
+[2023.01.09-13.41.02:133][175]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.09-13.41.02:135][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.01.09-13.41.02:164][176]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.01.09-13.41.03:829][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.01.09-13.41.03:843][202]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapA5F7F21F41DB18A6A6400888A4CE038A.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-13.41.04:041][202]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltData8EC43D0041D353C9342C45A1B9FDB74C.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-13.41.04:053][202]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-13.41.04:053][202]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-13.41.04:053][202]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
