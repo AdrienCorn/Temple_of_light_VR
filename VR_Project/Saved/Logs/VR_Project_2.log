@@ -1584,3 +1584,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.09-13.37.42:909][148]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.09-13.37.42:909][148]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2023.01.09-13.37.42:910][148]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-13.38.06:348][336]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2023.01.09-13.38.42:742][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.01.09-13.38.42:761][928]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapD74C9FD94BFF7D3C197B9F90B1F50FBC.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-13.38.42:948][928]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltData7C29EA2A47693D7DFC318C99E861C1BC.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-13.38.42:962][928]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-13.38.42:962][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-13.38.42:962][928]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
