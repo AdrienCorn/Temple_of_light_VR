@@ -1849,3 +1849,557 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.09-13.41.04:053][202]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.09-13.41.04:053][202]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2023.01.09-13.41.04:053][202]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-15.09.24:051][767]LogActorFactory: Actor Factory created Cube
+[2023.01.09-15.09.25:279][815]LogActorFactory: Actor Factory created Cube
+[2023.01.09-15.10.10:685][642]Cmd: EDIT COPY
+[2023.01.09-15.10.10:963][647]Cmd: EDIT PASTE
+[2023.01.09-15.10.18:298][818]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2023.01.09-15.10.19:151][832]Cmd: EDIT COPY
+[2023.01.09-15.10.19:439][835]Cmd: EDIT PASTE
+[2023.01.09-15.10.44:568][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2023.01.09-15.10.46:154][293]Cmd: EDIT COPY
+[2023.01.09-15.10.46:559][297]Cmd: EDIT PASTE
+[2023.01.09-15.11.11:765][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2023.01.09-15.11.25:391][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2023.01.09-15.11.53:649][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Complet_Final_Test_VitrauxTrans)
+[2023.01.09-15.11.56:895][279]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/temple-of-time/source/Vitraux.Vitraux
+[2023.01.09-15.11.56:943][279]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 36DB831EDADB2A765B570E559EE4872C08BC7F01), compiling. 
+[2023.01.09-15.11.57:003][279]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.01.09-15.11.57:055][279]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.01.09-15.11.57:219][279]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.09-15.11.57:437][279]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 6CB374304A795E0BE3A8D9B28ABEE19537A42E33), compiling. 
+[2023.01.09-15.11.57:443][279]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 35A97D82068954BB2025D7DA52F190266C8AE718), compiling. 
+[2023.01.09-15.11.57:455][279]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B7CC37733116A16EB6062D6891AA4B9154EE3A4B), compiling. 
+[2023.01.09-15.11.57:468][279]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.09-15.11.57:468][279]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.11.57:468][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2023.01.09-15.11.57:579][280]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.11.57:769][283]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.03:763][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.01.09-15.12.03:763][531]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.03:763][531]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.09-15.12.03:763][531]LogShaderCompilers: Display: Total job queries 104, among them cache hits 0 (0.00%)
+[2023.01.09-15.12.03:763][531]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 58 distinct outputs (73.42%)
+[2023.01.09-15.12.03:793][531]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.20%
+[2023.01.09-15.12.03:793][531]LogShaderCompilers: Display: ================================================
+[2023.01.09-15.12.05:021][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.01.09-15.12.05:021][603]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.06:084][664]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2023.01.09-15.12.06:084][664]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.11:415][966]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.01.09-15.12.11:415][966]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.17:441][305]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: D6E13BFD689C418FBB50ADD372F003E476C2EE2E), compiling. 
+[2023.01.09-15.12.17:466][305]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 3826291F4E454A9ACD6C59E9EC7055E80C14F1A8), compiling. 
+[2023.01.09-15.12.17:484][305]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 409FFE8DAF5BC4BCE69D56D6F8B8CA7F1E589888), compiling. 
+[2023.01.09-15.12.17:530][306]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.17:566][307]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.09-15.12.17:566][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.17:566][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.24:049][630]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 7710F98344AAB7338915DAF2BA8FF4EADCA6E550), compiling. 
+[2023.01.09-15.12.24:057][630]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 0798C971317F0777C2333B87C0DC2F2D4B4FFB57), compiling. 
+[2023.01.09-15.12.24:072][630]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.09-15.12.24:072][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.24:073][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.24:108][631]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.24:136][632]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.09-15.12.24:136][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.24:136][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.28:432][830]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.01.09-15.12.28:432][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.29:047][863]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 7ABA81C7115B062BE49E3A6E8BD1184D787EB1AF), compiling. 
+[2023.01.09-15.12.29:068][863]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.09-15.12.29:068][863]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.29:068][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.29:080][864]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.29:099][865]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.30:337][913]LogMaterialEditor: Applying material Vitraux
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.01.09-15.12.38:549][913]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.38:570][913]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 2212B5C561F06F73D7EA76A699DE8FFE2BC2F6CD), compiling. 
+[2023.01.09-15.12.38:726][913]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 04BCB48078E158AB3334E073436771C0755A3B88), compiling. 
+[2023.01.09-15.12.38:945][913]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.38:945][913]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.39:035][913]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2023.01.09-15.12.47:125][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.01.09-15.12.47:126][913]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.47:126][913]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.01.09-15.12.47:126][913]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.47:126][913]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2023.01.09-15.12.47:126][913]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.47:220][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.09-15.12.47:231][913]MaterialEditorStats: Texture samplers: 6/16
+[2023.01.09-15.12.47:231][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.47:231][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.48:460][961]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2023.01.09-15.12.48:460][961]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.48:846][979]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.01.09-15.12.48:846][979]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.50:684][ 74]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 86B476B05556B59943C6A089A7D1DEB2ABBE8FEF), compiling. 
+[2023.01.09-15.12.50:723][ 74]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: EBB6C93B1A4EB177F58606CE14E615CF6D978DF5), compiling. 
+[2023.01.09-15.12.50:740][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.09-15.12.50:740][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.12.50:740][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.12.50:776][ 75]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.50:776][ 75]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.01.09-15.12.54:778][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.01.09-15.12.54:778][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.59:301][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.01.09-15.12.59:301][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.12.59:916][ 76]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2023.01.09-15.12.59:916][ 76]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.00:046][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2023.01.09-15.13.00:046][ 76]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.00:418][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.01.09-15.13.00:418][ 76]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.10:410][ 76]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.01.09-15.13.10:410][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.10:454][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.01.09-15.13.10:454][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.15:517][ 80]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.09-15.13.15:517][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.13.15:517][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.13.15:571][ 82]MaterialEditorStats: Texture samplers: 6/16
+[2023.01.09-15.13.15:571][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.13.15:571][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.13.16:035][ 94]MaterialEditorStats: Base pass shader: 796 instructions
+[2023.01.09-15.13.16:035][ 94]MaterialEditorStats: Base pass shader with Surface Lightmap: 818 instructions
+[2023.01.09-15.13.16:035][ 94]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 862 instructions
+[2023.01.09-15.13.16:036][ 94]MaterialEditorStats: Base pass vertex shader: 271 instructions
+[2023.01.09-15.13.16:036][ 94]MaterialEditorStats: Texture samplers: 6/16
+[2023.01.09-15.13.16:036][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.13.16:036][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.13.18:458][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.09-15.13.18:485][192]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_Auto5A29A3B6B4DD12BD573EDDBBB661B5CA8.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap'
+[2023.01.09-15.13.18:487][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.071
+[2023.01.09-15.13.18:488][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.01.09-15.13.18:488][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/temple-of-time/source/Vitraux] ([1] browsable assets)...
+[2023.01.09-15.13.18:607][192]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/temple-of-time/source/Vitraux.Vitraux]
+[2023.01.09-15.13.18:607][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/temple-of-time/source/Vitraux]
+[2023.01.09-15.13.18:621][192]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/Vitraux_Auto5745256BE4E2F5004ED72D2B18217F896.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/Autosaves/Game/Assets/temple-of-time/source/Vitraux_Auto5.uasset'
+[2023.01.09-15.13.18:623][192]LogFileHelpers: Auto-saving content packages took 0.135
+[2023.01.09-15.13.20:911][291]LogMaterialEditor: Applying material Vitraux
+[2023.01.09-15.13.21:306][291]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: D24CED44E2E9B13C08BC6954E312E7331EDF5A10), compiling. 
+[2023.01.09-15.13.21:341][291]LogMaterial: Display: Missing cached shadermap for Vitraux in PCD3D_SM5, Default, SM5 (DDC key hash: 10C586990402B1FF85DE5CC4B9F436042B16E1C9), compiling. 
+[2023.01.09-15.13.21:382][291]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.13.21:382][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.01.09-15.13.21:382][291]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.13.21:382][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.01.09-15.13.22:863][291]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.22:957][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.09-15.13.22:971][291]MaterialEditorStats: Texture samplers: 6/16
+[2023.01.09-15.13.22:971][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.01.09-15.13.22:972][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.09-15.13.24:611][358]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-15.13.24:611][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.13.33:229][575]LogContentBrowser: Deferred new asset file creation: Vitraux_Inst
+[2023.01.09-15.13.33:696][575]LogContentBrowser: Creating deferred item: Vitraux_Inst
+[2023.01.09-15.13.34:790][584]LogContentBrowser: Attempting asset rename: Vitraux_Inst -> Vitraux_Inst
+[2023.01.09-15.13.34:846][584]LogContentBrowser: End creating deferred item Vitraux_Inst
+[2023.01.09-15.13.37:756][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.01.09-15.13.37:756][633]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.37:818][633]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/temple-of-time/source/Vitraux_Inst.Vitraux_Inst
+[2023.01.09-15.13.44:287][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.01.09-15.13.44:368][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.01.09-15.13.44:379][923]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/Vitraux_Inst237083DA4604C4335DC2D48CADD0823E.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/Assets/temple-of-time/source/Vitraux_Inst.uasset'
+[2023.01.09-15.13.44:405][923]AssetCheck: New page: Asset Save: Vitraux_Inst
+[2023.01.09-15.13.44:405][923]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/temple-of-time/source/Vitraux_Inst.Vitraux_Inst
+[2023.01.09-15.13.44:612][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.01.09-15.13.44:612][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.09-15.13.46:306][ 31]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-15.13.46:306][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.14.23:166][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.01.09-15.14.23:213][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.01.09-15.14.23:225][550]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapCAA875C84AD9FA76D7F90EA545203F75.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-15.14.23:232][550]LogFileHelpers: Saving map 'VRTemplateMap' took 0.047
+[2023.01.09-15.14.23:261][550]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/Vitraux3103D7414EE206E5B78B11BB33CD2C4B.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/Assets/temple-of-time/source/Vitraux.uasset'
+[2023.01.09-15.14.23:280][550]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-15.14.23:280][550]LogContentValidation: Display: Validating Material /Game/Assets/temple-of-time/source/Vitraux.Vitraux
+[2023.01.09-15.14.23:280][550]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-15.14.37:361][115]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.01.09-15.14.41:625][242]MapCheck: New page: Map Check
+[2023.01.09-15.14.41:659][242]LightingResults: New page: Lighting Build - 9 janv. 2023 à 17:14:41
+[2023.01.09-15.14.41:789][242]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.01.09-15.14.41:874][242]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.01.09-15.14.41:917][242]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.01.09-15.14.44:517][242]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.01.09-15.14.44:519][242]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9424
+[2023.01.09-15.14.51:618][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.01.09-15.14.51:619][242]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.01.09-15.14.51:619][242]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.01.09-15.14.51:619][242]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.01.09-15.14.51:619][242]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.01.09-15.14.51:863][242]LogEditorBuildUtils: Build time 0:10
+[2023.01.09-15.14.51:934][243]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer TempleTexture in PCD3D_SM5, Default, SM5 (DDC key hash: 78FDF7C05F84BD5E1733002C192CC52E7BF10893), compiling. 
+[2023.01.09-15.14.51:941][243]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.51:942][243]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer TempleTexture in PCD3D_SM5, Default, SM5 (DDC key hash: 0E420BC8FDB8D2B955D1E1650F59E750A42E5FA5), compiling. 
+[2023.01.09-15.14.51:948][243]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.51:948][243]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.01.09-15.14.51:948][243]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.01.09-15.14.51:948][243]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:017][244]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer PedestalTexture in PCD3D_SM5, Default, SM5 (DDC key hash: B6A6BC0858C873ACF10E4639D8269FD87FE477E9), compiling. 
+[2023.01.09-15.14.52:023][244]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:027][244]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.01.09-15.14.52:027][244]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:027][244]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer PedestalTexture in PCD3D_SM5, Default, SM5 (DDC key hash: DB70320FD9EC5CFC39C9034F2DEE9418445EFD86), compiling. 
+[2023.01.09-15.14.52:063][244]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:090][245]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer SocleTexture in PCD3D_SM5, Default, SM5 (DDC key hash: 1F8E0E6F766F99A22EF69F3C39128034D3D86E63), compiling. 
+[2023.01.09-15.14.52:098][245]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:101][245]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer SocleTexture in PCD3D_SM5, Default, SM5 (DDC key hash: 4DC97AC50D119F05DFA357B452A9CB9955E530DD), compiling. 
+[2023.01.09-15.14.52:108][245]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:138][246]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Vitraux_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: EE08CD36A705F6EBE30244C069A2CAA53CCB59C7), compiling. 
+[2023.01.09-15.14.52:143][246]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:151][246]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Vitraux_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 086F92080866D58249308DDAB19940719BED013A), compiling. 
+[2023.01.09-15.14.52:157][246]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:208][247]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EFF861692F72C0C8B7C6C28FEB4765245F3F5F08), compiling. 
+[2023.01.09-15.14.52:214][247]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.52:216][247]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3A4445CFC505E0192EAC3714150EEEC43C1CD13D), compiling. 
+[2023.01.09-15.14.52:224][247]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.01.09-15.14.57:015][248]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.09-15.14.58:145][260]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2023.01.09-15.15.12:843][428]Job is a success!
+[2023.01.09-15.15.13:273][429]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2023.01.09-15.15.13:273][429]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:      Bricks at depth
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:      Bricks in each level
+[2023.01.09-15.15.13:274][429]LogVolumetricLightmapImport:          VRTemplateMap 			 14 bricks 	 100.0% (Persistent Level)
+[2023.01.09-15.15.13:549][429]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2023.01.09-15.15.13:549][429]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2023.01.09-15.15.13:549][429]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.09-15.15.13:549][429]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.09-15.15.13:549][429]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2023.01.09-15.15.13:549][429]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2023.01.09-15.15.13:749][429]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2023.01.09-15.15.13:821][429]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2023.01.09-15.15.13:821][429]Lightmass on LAPTOP-KBVJ0R7T: 14.2 sec total, 978 ms importing, 47 ms setup, 1.82 sec photons, 11.2 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 45.0 sec total, 15.1 sec processing.
+[2023.01.09-15.15.13:821][429]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 11 meshes in 3 LightmapResourceClusters (3.7 Meshes per cluster).
+[2023.01.09-15.15.13:864][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.01.09-15.15.13:881][429]LogStaticLightingSystem: Illumination: 31.9 sec (259 ms encoding lightmaps, 196 ms encoding shadowmaps)
+[2023.01.09-15.15.13:881][429]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.01.09-15.15.13:881][429]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.01.09-15.15.14:641][429]DumpUnbuiltLightIteractions
+[2023.01.09-15.15.14:641][429]Lights with unbuilt interactions: 0
+[2023.01.09-15.15.14:641][429]
+[2023.01.09-15.15.14:641][429]Primitives with unbuilt interactions: 0
+[2023.01.09-15.15.14:663][429]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.09-15.15.14:663][429]LogShaderCompilers: Display: Total job queries 255, among them cache hits 41 (16.08%)
+[2023.01.09-15.15.14:663][429]LogShaderCompilers: Display: Tracking 162 distinct input hashes that result in 97 distinct outputs (59.88%)
+[2023.01.09-15.15.14:663][429]LogShaderCompilers: Display: RAM used: 1.67 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.41%
+[2023.01.09-15.15.14:663][429]LogShaderCompilers: Display: ================================================
+[2023.01.09-15.15.14:741][429]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.01.09-15.15.14:806][430]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.01.09-15.15.14:806][430]MapCheck: New page: VRTemplateMap - 9 janv. 2023 à 17:15:14
+[2023.01.09-15.15.14:810][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,434ms to complete.
+[2023.01.09-15.16.19:887][627]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Temple_Complet_Final_Test_PillierTrans81)
+[2023.01.09-15.17.39:676][287]Cmd: EDIT COPY
+[2023.01.09-15.17.39:844][290]Cmd: EDIT PASTE
+[2023.01.09-15.18.15:319][784]Cmd: EDIT COPY
+[2023.01.09-15.18.15:562][787]Cmd: EDIT PASTE
+[2023.01.09-15.18.51:759][243]Cmd: EDIT COPY
+[2023.01.09-15.18.51:948][244]Cmd: EDIT PASTE
+[2023.01.09-15.19.20:192][587]Cmd: EDIT COPY
+[2023.01.09-15.19.20:351][589]Cmd: EDIT PASTE
+[2023.01.09-15.19.54:758][992]Cmd: EDIT COPY
+[2023.01.09-15.19.55:055][995]Cmd: EDIT PASTE
+[2023.01.09-15.20.42:391][543]Cmd: EDIT COPY
+[2023.01.09-15.20.42:697][546]Cmd: EDIT PASTE
+[2023.01.09-15.21.08:313][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.09-15.21.08:333][839]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapF78E898F466487117E1D94BCD306094D.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-15.21.08:482][839]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltDataFB052ACD4394ABE0CB128DA951C11239.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-15.21.08:501][839]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-15.21.08:501][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-15.21.08:501][839]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-15.21.17:445][941]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.09-15.21.17:455][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.09-15.21.17:456][941]PIE: New page: PIE session: VRTemplateMap (9 janv. 2023 à 17:21:17)
+[2023.01.09-15.21.17:457][941]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.21.17:482][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024434s)
+[2023.01.09-15.21.17:485][941]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.01.09-15.21.17:487][941]LogPlayLevel: PIE: World Init took: (0.004684s)
+[2023.01.09-15.21.17:487][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.029649s)
+[2023.01.09-15.21.17:520][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.01.09-15.21.17:521][941]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-15.21.17:521][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.09-15.21.17:521][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-15.21.17:522][941]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.01.09-15.21.17:522][941]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.01.09-15.21.17:522][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-15.21.17:522][941]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.09-15.21.17:528][941]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.09-15.21.17:528][941]LogAudioMixer: Display: 1: FrontRight
+[2023.01.09-15.21.17:534][941]LogAudioMixer: Display: Using Audio Device Casque (Oculus Virtual Audio Device)
+[2023.01.09-15.21.17:534][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-15.21.17:534][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-15.21.17:534][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-15.21.17:535][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.09-15.21.17:535][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.09-15.21.17:535][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.09-15.21.17:537][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.09-15.21.17:537][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.09-15.21.17:537][941]LogInit: FAudioDevice initialized.
+[2023.01.09-15.21.17:537][941]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2023.01.09-15.21.17:551][941]LogLoad: Game class is 'VRGameMode_C'
+[2023.01.09-15.21.17:553][941]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2023.01.09-16.21.17
+[2023.01.09-15.21.17:553][941]LogWorld: Bringing up level for play took: 0.001786
+[2023.01.09-15.21.17:554][941]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.01.09-15.21.17:556][941]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.01.09-15.21.17:558][941]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.21.17:560][941]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.21.17:561][941]PIE: Server logged in
+[2023.01.09-15.21.17:562][941]PIE: Play in editor total start time 0,107 seconds.
+[2023.01.09-15.21.17:601][941]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.01.09-15.21.23:290][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.21.23:291][ 42]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.21.23:291][ 42]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-15.21.23:291][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.21.23:378][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.09-15.21.23:396][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.21.23:433][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.21.23:434][ 42]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.01.09-15.21.23:434][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.21.23:435][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.21.23:445][ 42]LogSlate: Slate User Unregistered.  User Index 8
+[2023.01.09-15.21.23:445][ 42]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.21.23:450][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2023.01.09-15.21.23:488][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.01.09-15.21.47:387][304]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.21.53:160][367]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.22.01:822][463]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.22.14:064][599]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.22.21:181][678]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.22.35:473][839]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.09-15.22.39:568][884]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.09-15.22.39:577][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.09-15.22.39:577][884]PIE: New page: PIE session: VRTemplateMap (9 janv. 2023 à 17:22:39)
+[2023.01.09-15.22.39:577][884]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.22.39:593][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015551s)
+[2023.01.09-15.22.39:595][884]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.01.09-15.22.39:596][884]LogPlayLevel: PIE: World Init took: (0.002997s)
+[2023.01.09-15.22.39:596][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.019153s)
+[2023.01.09-15.22.39:655][884]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2023.01.09-15.22.39:664][884]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-15.22.39:664][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.09-15.22.39:664][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-15.22.39:666][884]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.01.09-15.22.39:666][884]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.01.09-15.22.39:666][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-15.22.39:666][884]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.09-15.22.39:671][884]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.09-15.22.39:671][884]LogAudioMixer: Display: 1: FrontRight
+[2023.01.09-15.22.39:684][884]LogAudioMixer: Display: Using Audio Device Casque (Oculus Virtual Audio Device)
+[2023.01.09-15.22.39:686][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-15.22.39:686][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-15.22.39:686][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-15.22.39:686][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.09-15.22.39:687][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.09-15.22.39:687][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.09-15.22.39:689][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.09-15.22.39:689][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.09-15.22.39:689][884]LogInit: FAudioDevice initialized.
+[2023.01.09-15.22.39:689][884]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2023.01.09-15.22.39:697][884]LogLoad: Game class is 'VRGameMode_C'
+[2023.01.09-15.22.39:698][884]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2023.01.09-16.22.39
+[2023.01.09-15.22.39:699][884]LogWorld: Bringing up level for play took: 0.001290
+[2023.01.09-15.22.39:699][884]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.01.09-15.22.39:701][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.01.09-15.22.39:701][884]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.22.39:703][884]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.22.39:704][884]PIE: Server logged in
+[2023.01.09-15.22.39:704][884]PIE: Play in editor total start time 0,128 seconds.
+[2023.01.09-15.22.39:716][884]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.01.09-15.22.42:720][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.22.42:720][936]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.22.42:721][936]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-15.22.42:721][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.22.42:807][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.09-15.22.42:825][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.22.42:862][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.22.42:863][936]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.01.09-15.22.42:863][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.22.42:865][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.22.42:869][936]LogSlate: Slate User Unregistered.  User Index 8
+[2023.01.09-15.22.42:870][936]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.22.42:874][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.01.09-15.22.42:908][937]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.01.09-15.22.44:163][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.01.09-15.22.44:186][949]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapCD370A594DC0D70F74653B94ED3EEF00.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-15.22.44:389][949]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltData9B5107304955D8ADE65318BBEA671295.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-15.22.44:409][949]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-15.22.44:409][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-15.22.44:409][949]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-15.22.53:334][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.01.09-15.22.53:358][ 44]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMapE9FEA6C94894B7F2B28ED48F2BDD9F5A.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-15.22.53:577][ 44]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltDataF10BBADF449A4CB96B53D49076BF4A80.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-15.22.53:595][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-15.22.53:595][ 44]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-15.22.53:595][ 44]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.01.09-15.22.56:856][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Complet_Final_Test_PillierTrans81)
+[2023.01.09-15.23.08:606][205]MapCheck: New page: Map Check
+[2023.01.09-15.23.08:689][205]LightingResults: New page: Lighting Build - 9 janv. 2023 à 17:23:08
+[2023.01.09-15.23.08:696][205]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.01.09-15.23.08:698][205]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.01.09-15.23.08:698][205]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.01.09-15.23.08:699][205]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.01.09-15.23.08:699][205]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9424
+[2023.01.09-15.23.13:315][205]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.01.09-15.23.13:315][205]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.01.09-15.23.13:315][205]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.01.09-15.23.13:315][205]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.01.09-15.23.13:315][205]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.01.09-15.23.13:475][205]LogEditorBuildUtils: Build time 0:04
+[2023.01.09-15.23.13:479][205]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.09-15.23.13:480][205]LogShaderCompilers: Display: Total job queries 255, among them cache hits 41 (16.08%)
+[2023.01.09-15.23.13:480][205]LogShaderCompilers: Display: Tracking 162 distinct input hashes that result in 97 distinct outputs (59.88%)
+[2023.01.09-15.23.13:480][205]LogShaderCompilers: Display: RAM used: 1.67 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.41%
+[2023.01.09-15.23.13:480][205]LogShaderCompilers: Display: ================================================
+[2023.01.09-15.23.13:561][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.01.09-15.23.44:803][539]Job is a success!
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:      Bricks at depth
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:      Bricks in each level
+[2023.01.09-15.23.45:298][540]LogVolumetricLightmapImport:          VRTemplateMap 			 14 bricks 	 100.0% (Persistent Level)
+[2023.01.09-15.23.45:374][540]LightingResults: Warning: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.01.09-15.23.45:376][540]LightingResults: Warning: SpotLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.01.09-15.23.45:376][540]LightingResults: Warning: SpotLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.01.09-15.23.45:376][540]LightingResults: Warning: SpotLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.01.09-15.23.45:640][540]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.01.09-15.23.45:640][540]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.01.09-15.23.45:640][540]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.09-15.23.45:640][540]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.09-15.23.45:640][540]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2023.01.09-15.23.45:640][540]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2023.01.09-15.23.45:869][540]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2023.01.09-15.23.45:870][540]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2023.01.09-15.23.45:870][540]Lightmass on LAPTOP-KBVJ0R7T: 31.4 sec total, 450 ms importing, 39 ms setup, 1.34 sec photons, 29.5 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 1:58 min total, 35.2 sec processing.
+[2023.01.09-15.23.45:884][540]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 11 meshes in 2 LightmapResourceClusters (5.5 Meshes per cluster).
+[2023.01.09-15.23.45:930][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.09-15.23.45:942][540]LogStaticLightingSystem: Illumination: 37.0 sec (263 ms encoding lightmaps, 181 ms encoding shadowmaps)
+[2023.01.09-15.23.45:942][540]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.01.09-15.23.45:942][540]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.01.09-15.23.46:344][540]DumpUnbuiltLightIteractions
+[2023.01.09-15.23.46:344][540]Lights with unbuilt interactions: 0
+[2023.01.09-15.23.46:344][540]
+[2023.01.09-15.23.46:344][540]Primitives with unbuilt interactions: 0
+[2023.01.09-15.23.46:456][540]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.01.09-15.23.46:535][541]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.01.09-15.23.46:536][541]MapCheck: New page: VRTemplateMap - 9 janv. 2023 à 17:23:46
+[2023.01.09-15.23.46:536][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,606ms to complete.
+[2023.01.09-15.23.49:346][580]LogSlate: Window 'Message Log' being destroyed
+[2023.01.09-15.23.49:390][580]LogSlate: Window 'Message Log' being destroyed
+[2023.01.09-15.23.55:598][670]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.09-15.23.55:606][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.09-15.23.55:606][670]PIE: New page: PIE session: VRTemplateMap (9 janv. 2023 à 17:23:55)
+[2023.01.09-15.23.55:606][670]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.23.55:616][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009486s)
+[2023.01.09-15.23.55:621][670]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.01.09-15.23.55:622][670]LogPlayLevel: PIE: World Init took: (0.004977s)
+[2023.01.09-15.23.55:622][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.014940s)
+[2023.01.09-15.23.55:695][670]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2023.01.09-15.23.55:700][670]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.01.09-15.23.55:700][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-15.23.55:700][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-15.23.55:701][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-15.23.55:701][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-15.23.55:701][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.09-15.23.55:701][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-15.23.55:701][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.09-15.23.55:701][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-15.23.55:703][670]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.01.09-15.23.55:703][670]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.01.09-15.23.55:703][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-15.23.55:703][670]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.09-15.23.55:711][670]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.09-15.23.55:711][670]LogAudioMixer: Display: 1: FrontRight
+[2023.01.09-15.23.55:727][670]LogAudioMixer: Display: Using Audio Device Casque (Oculus Virtual Audio Device)
+[2023.01.09-15.23.55:727][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-15.23.55:728][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-15.23.55:728][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-15.23.55:728][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.09-15.23.55:728][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.09-15.23.55:728][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.09-15.23.55:731][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.09-15.23.55:731][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.09-15.23.55:731][670]LogInit: FAudioDevice initialized.
+[2023.01.09-15.23.55:731][670]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2023.01.09-15.23.55:743][670]LogLoad: Game class is 'VRGameMode_C'
+[2023.01.09-15.23.55:745][670]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2023.01.09-16.23.55
+[2023.01.09-15.23.55:746][670]LogWorld: Bringing up level for play took: 0.001676
+[2023.01.09-15.23.55:746][670]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.01.09-15.23.55:749][670]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.01.09-15.23.55:749][670]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.23.55:752][670]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.23.55:752][670]PIE: Server logged in
+[2023.01.09-15.23.55:753][670]PIE: Play in editor total start time 0,147 seconds.
+[2023.01.09-15.23.55:793][670]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.01.09-15.23.59:360][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.23.59:360][731]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.01.09-15.23.59:361][731]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-15.23.59:362][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.23.59:477][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.09-15.23.59:508][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-15.23.59:549][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-15.23.59:550][731]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.01.09-15.23.59:550][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.23.59:551][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.09-15.23.59:555][731]LogSlate: Slate User Unregistered.  User Index 8
+[2023.01.09-15.23.59:555][731]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.01.09-15.23.59:560][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.01.09-15.23.59:611][732]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.01.09-15.24.04:054][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.01.09-15.24.04:079][790]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap523D80C44CBEF8BDDD33A096414D7D39.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.01.09-15.24.04:295][790]LogSavePackage: Moving '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Saved/VRTemplateMap_BuiltDataC6DF8F1C45FC813A1AF51796CFA9F3B1.tmp' to '../../../../../../Users/adrie/OneDrive/Bureau/Git_projet_VR/Temple_of_light_VR/VR_Project/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.01.09-15.24.04:310][790]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-15.24.04:310][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.01.09-15.24.04:310][790]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
